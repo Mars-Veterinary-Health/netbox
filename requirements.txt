@@ -35,7 +35,7 @@ redis==8.1.0
 requests==2.34.2
 rq==2.12.0
 social-auth-app-django==6.0.1
-social-auth-core==5.1.0
+social-auth-core==6.2.0
 sorl-thumbnail==13.1.0
 strawberry-graphql==0.327.7
 strawberry-graphql-django==0.89.2
